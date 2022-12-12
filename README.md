@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 3rh year student of ICT on University of Sience and Technology<br>in Cracov. Some time ago I started learning Angular, HTML, CSS and JS. <br>My interests are graphic, football (it's football not soccer like Americans<br>call it), technology, music and  oriental cuisine.
+I'm 3rd year student of ICT on University of Science and Technology<br>in Cracow. Some time ago I started learning Angular, HTML, CSS and JS. <br>My interests are graphic, football (it's football not soccer like Americans<br>call it), technology, music and oriental cuisine.
 
 
 ## 🌐 Socials:
